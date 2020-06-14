@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2f1b249-00c4-43b2-b3f5-88faced0d6e0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yibo/center/domain/vo/UserAo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yibo/center/domain/vo/UserVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yibo/config/SwaggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yibo/config/WebConfigurer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yibo/config/intercepors/LoginInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yibo/response/BaseErrorInfoInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yibo/response/BizException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yibo/response/CommonEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yibo/response/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yibo/response/Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yibo/response/PageResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yibo/response/PageResultUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yibo/response/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yibo/response/ResultUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yibo/center/domain/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yibo/center/domain/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yibo/controller/DynamicDataSourceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yibo/controller/DynamicDataSourceController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yibo/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yibo/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\project\dynamic-data-source" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\apache\microservice_repository" />
+        <option name="mavenHome" value="E:/apache/maven/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="E:\apache\maven\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1d8CbFPOTNBUCK4gPMd4AgW22cU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yibo.center.domain.vo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\project\dynamic-data-source\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dynamic-data-source" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yibo.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\jjhyb\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2f1b249-00c4-43b2-b3f5-88faced0d6e0" name="Default Changelist" comment="" />
+      <created>1591797408186</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591797408186</updated>
+      <workItem from="1591797421669" duration="8391000" />
+      <workItem from="1592071363913" duration="6696000" />
+      <workItem from="1592124283658" duration="5850000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1591798222567">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1591798222567" />
+    <state x="521" y="262" width="324" height="247" key="Github.ShareDialog" timestamp="1591809342368">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="521" y="262" width="324" height="247" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1591809342368" />
+    <state x="447" y="70" key="Github.UntrackedFilesDialog" timestamp="1591809368145">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="447" y="70" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1591809368145" />
+    <state width="1323" height="112" key="GridCell.Tab.0.bottom" timestamp="1592131062639">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="112" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592131062639" />
+    <state width="1323" height="112" key="GridCell.Tab.0.center" timestamp="1592131062639">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="112" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592131062639" />
+    <state width="1323" height="112" key="GridCell.Tab.0.left" timestamp="1592131062639">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="112" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592131062639" />
+    <state width="1323" height="112" key="GridCell.Tab.0.right" timestamp="1592131062639">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="112" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592131062639" />
+    <state width="1323" height="112" key="GridCell.Tab.1.bottom" timestamp="1592131062508">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="112" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592131062508" />
+    <state width="1323" height="112" key="GridCell.Tab.1.center" timestamp="1592131062508">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="112" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1592131062508" />
+    <state width="1323" height="112" key="GridCell.Tab.1.left" timestamp="1592131062508">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="112" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1592131062508" />
+    <state width="1323" height="112" key="GridCell.Tab.1.right" timestamp="1592131062508">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="112" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1592131062508" />
+    <state width="1323" height="112" key="GridCell.Tab.2.bottom" timestamp="1592131062509">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="112" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592131062509" />
+    <state width="1323" height="112" key="GridCell.Tab.2.center" timestamp="1592131062509">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="112" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1592131062509" />
+    <state width="1323" height="112" key="GridCell.Tab.2.left" timestamp="1592131062509">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="112" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1592131062509" />
+    <state width="1323" height="112" key="GridCell.Tab.2.right" timestamp="1592131062509">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="112" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1592131062509" />
+    <state x="213" y="22" key="Maven.ArtifactSearchDialog" timestamp="1591802046670">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="22" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1591802046670" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1592125162458">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1592125162458" />
+  </component>
+</project>

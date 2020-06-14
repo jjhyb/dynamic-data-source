@@ -22,4 +22,10 @@ public class UserService {
     public List<User> findAll(){
         return userMapper.selectAll();
     }
+
+    public User findById(Integer id){
+        User user = new User();
+        user.setId(id);
+        return userMapper.selectOne(user);
+    }
 }
